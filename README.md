@@ -5,6 +5,7 @@ This project demonstrates how to send messages to a Slack channel using Python a
 ## Usage
 
 1. Create Slack App and integrate it with slack channel in you workplace. Save app token and channel_id. See more detailes here : 
+https://kotokdaria.medium.com/integrating-slack-api-using-python-a-step-by-step-guide-3faea2f0bc91
 
 2. Clone this progect on your local machine
 
